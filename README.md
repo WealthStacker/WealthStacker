@@ -8,13 +8,13 @@ InfoSec Student| Seeking entry level opportunity| Studying CompTIA Security+
 ## Objective
 
 
-Goal-driven and adaptable professional with experience in Exposure Management, Log Analysis, GRC, and Asset Management. Looking to leverage my ongoing information security studies and hands-on experience gained through my home-lab to secure an entry-level cyber security role, where I can apply my knowledge and contribute to enhancing the organization’s digital security posture.
+Goal-driven and adaptable professional with experience in Exposure Management, Log Analysis, GRC, Asset Management and SIEM. Looking to leverage my ongoing information security studies and hands-on experience gained through my home-lab to secure an entry-level cyber security role, where I can apply my knowledge and contribute to enhancing the organization’s digital security posture.
 
 
 ## Skills
 
 
-* Core Competencies: Asset Management, Exposure Management, Log Analysis, GRC 
+* Core Competencies: Asset Management, Exposure Management, Log Analysis, GRC, Security Information And Event Management (SIEM)
 
 
 
