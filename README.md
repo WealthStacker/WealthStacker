@@ -3,7 +3,7 @@
 
 
 
-InfoSec Student| Seeking entry level opportunity| Studying CompTIA Security+
+InfoSec Student| Seeking entry level opportunity| Studying CompTIA Security+| GRC|
 
 ## :dart: Objective
 
