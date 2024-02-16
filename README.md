@@ -69,5 +69,7 @@ Goal-driven and adaptable professional with experience in Exposure Management, L
 </div>
 
 ## :books: Projects
-- Test Lab
+- GRC (Developed Just-In-Time cybersecurity awareness content for emerging threats) https://drive.google.com/file/d/1G5cr9sZHXr0jSYVvc7KZ0-hTFljHdnbQ/view?usp=sharing
 - 
+
+
